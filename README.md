@@ -34,3 +34,8 @@ Due to its file extension (or lack thereof), "C:\Users\MANUKR~1\AppData\Local\Te
 Bytes written: 1821
 
 ```
+
+## Arduino Pinouts
+
+![Arduino-Pin-Mapping-for-STM8S103F3](https://user-images.githubusercontent.com/5345014/136696721-54a1c405-c755-40ae-b2b2-260931cb37ea.png)
+
